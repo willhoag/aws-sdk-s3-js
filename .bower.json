@@ -1,0 +1,14 @@
+{
+  "name": "aws-sdk-js",
+  "homepage": "https://github.com/aws/aws-sdk-js",
+  "version": "1.17.3",
+  "_release": "1.17.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.17.3",
+    "commit": "43d010173906bc523702dd30198d32541713f316"
+  },
+  "_source": "git://github.com/aws/aws-sdk-js.git",
+  "_target": "~1.17.2",
+  "_originalSource": "aws-sdk-js"
+}
